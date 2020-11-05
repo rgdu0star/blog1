@@ -24,7 +24,7 @@ jobs:
         pattern: '**/*'
         remove: 'true'
     # Use the output from the `hello` step
-    - run: echo "bucket key: ${{ steps.bucket.outputs.key }}"
+    - run: echo "bucket key:${{ steps.bucket.outputs.key }}"
     - run: echo "ipfs: ${{ steps.bucket.outputs.ipfs }}"
     - run: echo "ipfs link: ${{ steps.bucket.outputs.ipfsUrl }}"
     - run: echo "ipns: ${{ steps.bucket.outputs.ipns }}"
