@@ -20,7 +20,7 @@ jobs:
         secret: ${{ secrets.TEXTILE_ACCOUNT_SECRET }}
         bucket: 'vokov'
         thread: 'bafk565xnzb7bxrwju47modtl66zw33kfukja3lfkpe6mdom4rjzw4wy'
-        path: '.'
+        path: './_site'
         pattern: '**/*'
         remove: 'true'
     # Use the output from the `hello` step
