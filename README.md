@@ -1,5 +1,7 @@
 # [irvinlim.com](https://irvinlim.com)
 
+![Textile Bucket - Deploy](https://github.com/rgdu0star/blog1/workflows/Textile%20Bucket%20-%20Deploy/badge.svg)
+
 This is my personal homepage, powered by [Jekyll](https://jekyllrb.com/) and GitHub Pages.
 
 Based on some parts of [jekyll-boilerplate](https://github.com/HugoGiraudel/jekyll-boilerplate) and [Lagrange](https://github.com/LeNPaul/Lagrange).
