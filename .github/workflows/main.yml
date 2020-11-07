@@ -18,7 +18,7 @@ jobs:
       with:
         key: ${{ secrets.TEXTILE_ACCOUNT_KEY }}
         secret: ${{ secrets.TEXTILE_ACCOUNT_SECRET }}
-        bucket: 'vokov'
+        bucket: 'bafzbeid4at2evxqykgl2runc2buw2m464grufngblik435tt6duvas'
         thread: 'bafk565xnzb7bxrwju47modtl66zw33kfukja3lfkpe6mdom4rjzw4wy'
         path: './_site'
         pattern: '**/*'
