@@ -25,9 +25,9 @@ navigation:
   - title: Резюме
     url: /resume/
 #   - title: Презентація
-    url: /interests/
+#    url: /interests/
 #   - title: PpBPM
-    url: /portfolio/
+#    url: /portfolio/
   - title: Блог
     url: /blog/
 
